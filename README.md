@@ -9,12 +9,12 @@
 
 
 
-hi, i'm a passionate self-taught Machine learning Engineer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm a passionate self-taught Machine learning Engineer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="475" height="304" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="425" height="330" />
   
 - 💼 any freelance work? do reach, [email](mailto:abdrahmansoltan98@gmail.com)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, i am happy to help :)
 
 **languages and tools:**  
 
@@ -31,7 +31,7 @@ hi, i'm a passionate self-taught Machine learning Engineer and a freelance softw
 
 📈 my github stats
 
-<p align="left"> <img width=40% src="https://github-readme-stats.vercel.app/api?username=abdrahmansoltan&show_icons=true&theme=discord_old_blurple " alt="abdrahmansoltan" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=abdrahmansoltan&show_icons=true&theme=discord_old_blurple " alt="abdrahmansoltan" />
 
 
 
