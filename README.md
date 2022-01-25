@@ -1,10 +1,15 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/abdelrahmansoltan/">
-  <img align="left" alt="Abdelrahman Soltan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
+# Hello, I'm Abdelrahman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-hi, i'm [Abdelrahman Soltan](https://www.abdelrahmansoltan.xyz/), a passionate self-taught Machine learning Engineer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmansoltan/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdrahmansoltan98@gmail.com)
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=red)](http://abdelrahmansoltan.xyz/)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+
+
+hi, i'm a passionate self-taught Machine learning Engineer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -24,25 +29,12 @@ hi, i'm [Abdelrahman Soltan](https://www.abdelrahmansoltan.xyz/), a passionate s
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-Python   49 hrs 44 mins  ████████████████████████░   95.61 % 
-JSON         1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-TypeScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-XML          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-```
-<!--END_SECTION:waka-->
-
-
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img width=46% src="https://github-readme-stats.vercel.app/api?username=abdrahmansoltan&show_icons=true&theme=discord_old_blurple " alt="abdrahmansoltan" />
 
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdrahmansoltan&theme=nord_dark)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdrahmansoltan&theme=nord_dark) -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdrahmansoltan&theme=nord_dark)
