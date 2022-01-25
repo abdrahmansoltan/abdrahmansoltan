@@ -31,7 +31,7 @@ hi, i'm a passionate self-taught Machine learning Engineer and a freelance softw
 
 📈 my github stats
 
-<p align="left"> <img width=46% src="https://github-readme-stats.vercel.app/api?username=abdrahmansoltan&show_icons=true&theme=discord_old_blurple " alt="abdrahmansoltan" />
+<p align="left"> <img width=40% src="https://github-readme-stats.vercel.app/api?username=abdrahmansoltan&show_icons=true&theme=discord_old_blurple " alt="abdrahmansoltan" />
 
 
 
