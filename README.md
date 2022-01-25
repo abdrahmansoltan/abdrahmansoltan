@@ -11,7 +11,7 @@
 
 hi, i'm a passionate self-taught Machine learning Engineer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="475" height="304" />
   
 - 💼 any freelance work? do reach, [email](mailto:abdrahmansoltan98@gmail.com)
 - 💬 ask me about anything, i am happy to help;
