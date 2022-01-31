@@ -15,13 +15,14 @@ Hi, I'm a passionate self-taught Machine learning Engineer and a freelance softw
 
 **languages and tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="./assets/logos/js.png"></code>
+<code><img height="20" src="./assets/logos/py.png"></code>
+<code><img height="20" src="./assets/logos/tf.png"></code>
+<code><img height="20" src="./assets/logos/sklearn.png"></code>
+<code><img height="20" src="./assets/logos/np.png"></code>
+<code><img height="20" src="./assets/logos/pd.png"></code>
+<code><img height="20" src="./assets/logos/matplotlib.png"></code>
+<code><img height="20" src="./assets/logos/colab.png"></code>
+<code><img height="20" src="./assets/logos/docker.png"></code>
+<code><img height="17" src="./assets/logos/html.png"></code>
+<code><img height="20" src="./assets/logos/css.png"></code>
