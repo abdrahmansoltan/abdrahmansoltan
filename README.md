@@ -24,5 +24,3 @@ Hi, I'm a passionate self-taught Machine learning Engineer and a freelance softw
 <code><img height="20" src="./assets/logos/matplotlib.png"></code>
 <code><img height="20" src="./assets/logos/colab.png"></code>
 <code><img height="20" src="./assets/logos/docker.png"></code>
-<code><img height="17" src="./assets/logos/html.png"></code>
-<code><img height="20" src="./assets/logos/css.png"></code>
