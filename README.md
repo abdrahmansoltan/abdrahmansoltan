@@ -2,11 +2,11 @@
 
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=red)](http://abdelrahmansoltan.me/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmansoltan/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdrahmansoltan98@gmail.com)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@abdelrahmansoltan.me)
 
 Hi, I'm a passionate self-taught Web-Developer with experience in Machine-learning. My passion for software lies with dreaming up ideas and making them come true.
 
-- 💼 any freelance work? do reach, [email](mailto:abdrahmansoltan98@gmail.com)
+- 💼 any Freelance|FullTime work? do reach, [email](mailto:info@abdelrahmansoltan.me)
 - 💬 ask me about anything, i am happy to help :)
 
 **languages and tools:**
