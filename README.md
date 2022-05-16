@@ -1,12 +1,12 @@
-# Hello, I'm Abdelrahman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+# Hello, I'm Abdelrahman
 
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=red)](http://abdelrahmansoltan.me/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmansoltan/)
-[![](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@abdelrahmansoltan.me)
+[![](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.soltan.me@gmail.com)
 
 Hi, I'm a passionate self-taught Web-Developer with experience in Machine-learning. My passion for software lies with dreaming up ideas and making them come true.
 
-- 💼 any Freelance|FullTime work? do reach, [email](mailto:info@abdelrahmansoltan.me)
+- 💼 any Freelance|FullTime work? do reach, [email](mailto:abdelrahman.soltan.me@gmail.com)
 - 💬 ask me about anything, i am happy to help :)
 
 **languages and tools:**
