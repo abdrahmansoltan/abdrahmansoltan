@@ -11,12 +11,11 @@
 
 - :office: &nbsp;I'm currently working at <a href="https://instabug.com/"> @Instabug </a> <img src="./assets/logos/Instabug-Logo.png" width="20" draggable="false"></img>
 - :seedling: &nbsp;I’m currently learning [Data structures and Algorithms](https://leetcode.com/abdelrahman_soltan/).
-- :speech_balloon: &nbsp;I like to talk about **Anime** and **Video Games**
 - :mailbox: &nbsp;Ask me anything, I'm happy to help :)
 
 <h2 align="center">
   Languages and Tools
 </h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,react,redux,nodejs,python,tensorflow,jest,postgres,git,aws&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,react,redux,nodejs,python,angular,jest,postgres,git,aws&perline=8" />
 </p>
