@@ -1,8 +1,8 @@
 <h3 align="center">
-  Hello there!, I'm Abdelrahman
+  Hello there! I'm Abdelrahman
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20Developer;Machine%20Learning%20Enthusiastic;Electrical%20Engineer;Always%20learning%20.%20.%20.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20Developer;Electrical%20Engineer;Always%20learning%20.%20.%20.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=red)](https://abdelrahmansoltan.vercel.app)
