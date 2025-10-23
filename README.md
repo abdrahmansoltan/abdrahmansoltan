@@ -9,8 +9,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmansoltan/)
 [![](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.soltan.me@gmail.com)
 
-- :office: &nbsp;I'm currently working at <a href="https://instabug.com/"> @Instabug </a> <img src="./assets/logos/Instabug-Logo.png" width="20" draggable="false"></img>
-- :seedling: &nbsp;I’m currently learning [Data structures and Algorithms](https://leetcode.com/abdelrahman_soltan/).
+- :office: &nbsp;I'm currently working at <a href="https://es.wallapop.com"> @Wallapop </a> <img src="https://i0.wp.com/about.wallapop.com/wp-content/uploads/2021/07/brand-motion.png?fit=690%2C690&ssl=1" width="20" draggable="false"></img>
 - :mailbox: &nbsp;Ask me anything, I'm happy to help :)
 
 <h2 align="center">
